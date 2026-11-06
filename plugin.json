@@ -26,7 +26,7 @@
         "shortDescription": "Digital signage on any TV",
         "longDescription": "PingBell is digital signage for small businesses. This plugin turns what you tell ChatGPT into a board for the TV in your cafe, salon, barbershop, gym, studio, clinic or office, and keeps it up to date.\n\nDescribe what you want to show: your menu and prices, your services and hours, today's class schedule, a sale with the days left, holiday hours, Wi-Fi and guest info, an employee of the month, an announcement, or a welcome screen with the time and weather. ChatGPT builds it from ready-made templates and styles, with your words. Lines you don't need are left off.\n\nTo put it on a screen, open the PingBell app on Fire TV, Roku, Apple TV or Android TV, or my.pingbell.io/pair in any web browser, and read ChatGPT the short code the screen shows. The board appears right away. Ask for a change, like a new price or today's special, and every screen updates by itself. You can also show a board on your website.\n\nNo sign-in is needed. Each board shows on up to 3 screens and carries a small \"Powered by PingBell\" mark. You can delete a board and everything stored with it at any time.",
         "developerName": "PingBell LLC",
-        "category": "Small Business",
+        "category": "Business & Operation",
         "capabilities": [
           "Make a menu, price list, class schedule, holiday hours, sale countdown, welcome board or announcement",
           "Leave off the lines you don't need, and choose a style or background",
